@@ -1,4 +1,12 @@
 #!/usr/bin/env ruby
+# ==========================================================================================
+# deser-ruby v0.2
+# Date: 08-03-2020
+# Author: d3adc0de
+# ==========================================================================================
+# The script generates serialized payloads for Marshal.load, and YAML.load
+# PoC Version - Will be further developed soon
+#
 require 'optparse'
 require 'yaml'
 
